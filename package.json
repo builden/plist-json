@@ -2,7 +2,7 @@
   "name": "plist-json",
   "version": "0.0.1",
   "description": "plist to json, json to plist, bplist to plist",
-  "main": "lib/scale-img.js",
+  "main": "lib/plist-json.js",
   "scripts": {
     "test": "gulp test"
   },
